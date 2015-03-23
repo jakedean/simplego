@@ -1,3 +1,7 @@
+/*
+  This is a program that creates a user chosen n x n slice
+  and turns it 90 degrees coutner clockwise.
+ */
 package rotator
 
 import (
